@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Plot lately discovered for the taking of the Tower, by negromancie for the deliverance of the Archbishop, discovered by a mathematician in Southwarke, who after some serious debate with himself revealed the conspiracie to many eminent men : for which thirty Papists most inhumanely beset his house, and pursued him as far as Lambred upon Trent, where they most barbarously murdered him : some are taken, and lie in hold, to the mercy of justice.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55167</idno><idno type="EEBO-CITATION">13645711</idno>
+  <idno type="VID">100913</idno>
+  <idno type="EEBO-PROQUEST">2264210363</idno>
+  
+            <idno type="STC">Wing P2600</idno>
+            <idno type="STC">ESTC R33972</idno>
+            <idno type="OCLC">13645711</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A55167)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100913)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1040:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Plot lately discovered for the taking of the Tower, by negromancie for the deliverance of the Archbishop, discovered by a mathematician in Southwarke, who after some serious debate with himself revealed the conspiracie to many eminent men : for which thirty Papists most inhumanely beset his house, and pursued him as far as Lambred upon Trent, where they most barbarously murdered him : some are taken, and lie in hold, to the mercy of justice.</title>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through with loss of text.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Tower of London (London, England)</term>
+               <term type="topical_term">Conspiracy.</term>
+               <term type="geographic_name">Great Britain --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100913:1"/>
+            <pb facs="tcp:100913:1"/>
+            <p>A PLOT Lately discovered for the taking of the TOWER, BY <hi>NEGROMANCIE,</hi> For the deliverance of the Archbi<g ref="char:EOLhyphen"/>shop, discovered by a Mathema<g ref="char:EOLhyphen"/>tician in <hi>Southwarke.</hi>
+            </p>
+            <p>Who after some serious debate with himself revealed the Conspiracie to many eminent men.</p>
+            <p>For which thirty Papists most inhumanely beset his house, and pursued him as far as <hi>Lambred</hi> upon <hi>Trent,</hi> where they most barbarously murdered him: some are taken, and lie in hold, to the mercy of Justice.</p>
+            <p>London printed. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:100913:2"/>
+            <pb n="1" facs="tcp:100913:2"/>
+            <p>
+               <seg rend="decorInit">I</seg>t is not unknowne that <hi>William</hi> Archbishop of Canterbury by rea<g ref="char:EOLhyphen"/>son of his bowing and bending to<g ref="char:EOLhyphen"/>wards Idols hath preferred himselfe a great Favourite to the Papists, but an enemy to his owne content, that they might therefore content him in what they can, they have joyned their braines together, and plotted as followeth.</p>
+            <p>In the Burrough of <hi>Southwarke</hi> nere the <hi>Golden Crowne,</hi> there dwelled one which professed himselfe a man of Art, and called himselfe by the name of a Ma<g ref="char:EOLhyphen"/>thematician, speaking of very many things which he could do, as <hi>Calculating the Nativity of any, finding of things lately lost, foretelling things good or bad which shall happen,</hi> with many more strange things as possi<g ref="char:EOLhyphen"/>bly can be done by man: to him go a company of Papists, about the number of three hundred, desiring him that he would answer to one which spake after this manner.</p>
+            <p>
+               <hi>Most worthy Sir, we have heard how you excell in Art, and that you can do many strange and unheard of things if you can do this therefore which I shall propose unto you, gold and our loves shall recompence your paines.</hi>
+            </p>
+            <pb n="2" facs="tcp:100913:3"/>
+            <p>The Mathematicioner desired him to proceed.</p>
+            <p>Then he began to unfold all their grievances after this manner.</p>
+            <p>
+               <hi>Know, gentle Six, that our great Friend and Associate is now Prisoner in the Tower, where minutely he lives in fear of death, and danger; our earnest desire is therefore that you would extend your Art thus far.</hi>
+            </p>
+            <p>
+               <hi>First, we beseech you that you would inchaunt the Tower wherein he lies, that no man whatsoever might enter the Tower, and come to his Presence, but his Friends.</hi>
+            </p>
+            <p>
+               <hi>Secondly, that he may have all the joyes and delights which this life can yeeld, as musicke, dancing, mas<g ref="char:EOLhyphen"/>quing, and revelling, and such like, insomuch that he might forg<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> those sorrowes and affrightments past, and live in all mirth and jollity.</hi>
+            </p>
+            <p>
+               <hi>Thirdly, it is our most earnest desire that the likenesse of those who have been the chief causers of his misery might come and be Masquers before him to make him sport.</hi>
+            </p>
+            <p>
+               <hi>Fourthly, we desire you that you would be pleased to con<g ref="char:EOLhyphen"/>vey the Pope from Rome to his society.</hi>
+            </p>
+            <p>
+               <hi>Fifthly, if there be any Lady which he affects, as such secrets we know are not hid from your breast, we desire that you would convey her thither to him.</hi>
+            </p>
+            <p>
+               <hi>Sixthly, they desired him to cast it so, that at his death the Tower might sinke into the Thames.</hi>
+            </p>
+            <p>These were their practises, and this was their chief occasion, why they went thither, where you may plainly perceive their dangerous devices.</p>
+            <p>Well, this Mathematician heard their requests, and after some grave pause, as if he considered what
+<pb n="3" facs="tcp:100913:3"/>was to be done, and what answer to give, he spake to them as followeth:</p>
+            <p>
+               <hi>Gentlemen, this businesse which you desire me to under<g ref="char:EOLhyphen"/>take is very dangerous, and for ought as I yet know, ye may come to betray me, and my life into danger, therefore I pray you to desist from your Designes, for I cannot, neither will I condiscend to any such matter: mine Art is mine owne, neither will I occupy it about any such traiterous Designes.</hi>
+            </p>
+            <p>At these words there rushed to him three or four squashing Cavaliers of the same Religion with their swords drawne, vowing that he should never calculate birth again, if he would not condiscend to their re<g ref="char:EOLhyphen"/>quests; our Mathematician is now in a wood, he know<g ref="char:EOLhyphen"/>eth not what to say, but stareth upon them wishly for a while, till at last astonishment had given way to his speech, and he allayed their suries with these words.</p>
+            <p>
+               <hi>Why you hare-brain'd people, is it not expedient that every man should doubt the worst, the times being dange<g ref="char:EOLhyphen"/>rous, and suspect grounded upon the least as possible may be, and that suspect being any way proved, condigne punish<g ref="char:EOLhyphen"/>ment is sure to follow, why were ye so stupid therefore not to consider of these things before? thus much I will open my selfe unto you: my Lord of</hi> Canterbury, <hi>when he was in his prosperity was my most gracious Friend, for he was alwayes, and is yet a cherisher of Arts, wherefore I will promise you to do all that in me lieth for the good of my gracious Lord,</hi> (whispering aside, I mean not <hi>Canter<g ref="char:EOLhyphen"/>bury,</hi> for I am not mad to damne my soul for him)</p>
+            <p>They being pretty well pacified with these words, they gave him money as much as he would desire, and
+<pb n="4" facs="tcp:100913:4"/>departed, desiring him to make all the speed as pos<g ref="char:EOLhyphen"/>sibly he could, which he promised to do, and so he left them, but they told him that they would not be long from him, for they did much desire to hear of his proceedings. After their departure he began thus to debate with himselfe, I have promised to do this thing, 'tis true, but it is not pleasing to God, and be<g ref="char:EOLhyphen"/>sides I was forced to promise to do it, then again they gave me money, and it will be dishonesty for me to keep it except I accomplish their desires, why it was to hinder suspition that I did take it, and therefore I hope it will not be offensive to my God; and again it is Treason that I must accomplish, nay, no vulgar Treason neither, but that which is as much against the King of Heaven as against mine owne Soveraigne <hi>Charles</hi> by the Grace of God, King, &amp;c. for whose safety I will pray both night and day, that it would please God to defend his royall person from the malice of all Popish Traitours, and that he might reigne long over us to maintain the true Faith, and with the very thought of loyalty to his King, he went to a friend of his with an intent to reveal all; when he came there he found his friend talking with ano<g ref="char:EOLhyphen"/>ther man who was a Recusant, but without any re<g ref="char:EOLhyphen"/>spect of persons, he began to unfold all unto his friend, who shook his head, and admonished him to appre<g ref="char:EOLhyphen"/>hend them the next time they came. Now neither he nor his friend knew this man to be a Recusant, for he took notice of what was said, but he made but lit<g ref="char:EOLhyphen"/>tle answer to any thing, but after some complements
+<pb n="5" facs="tcp:100913:4"/>passed, he took his leave; he was no sooner parted from them, but he goeth to acquaint this Company of it, which when they heard of, they stormed most mightily, vowing the death of this Mathematician, and having taken their Oathes to shed his bloud they all went out, some one way, some another, where they beset the house round, but as it happened, he was not in the house, and so he escaped from forth the City of <hi>London,</hi> but they had quicke intelligence thereof, and followed him four manner of wayes, and at length they overtook him, at a Village called <hi>Lambred</hi> upon <hi>Trent,</hi> where they took away the life of a true subject, I know not how to deplore his estate, but I shall end with this prayer, From all the deceits of the world, and workes of the Devill, good Lord deliver us.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
